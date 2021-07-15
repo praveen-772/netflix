@@ -12,7 +12,7 @@
     "react-scripts": "4.0.3",
     "react-youtube": "^7.13.1",
     "web-vitals": "^1.1.2",
-    "homepage": "https://praveen-772.github.io/netflix/"
+    "homepage": "https://praveen-772.github.io/netflix"
   },
   "scripts": {
     "start": "react-scripts start",
